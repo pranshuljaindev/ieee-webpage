@@ -1,0 +1,6 @@
+{
+  "name": "IEEE InnovateX 2026 | Innovation Meets Engineering",
+  "description": "Production-quality event website for IEEE InnovateX 2026 — Where Ideas Meet Engineering. Featuring schedule, keynote speakers, and IEEE, IAS, and RAS society showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
